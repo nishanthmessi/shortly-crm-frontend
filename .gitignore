@@ -10,6 +10,8 @@
 
 # production
 /build
+/src/utils
+/src/components/Navbar
 
 # misc
 .DS_Store
@@ -21,3 +23,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+// My Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2Mzg2NDI4ZWJjNDg3NzI0NmY0OWI1MjkiLCJpYXQiOjE2Njk3NDMyNDYsImV4cCI6MTY3MDM0ODA0Nn0.Vv8MiJfgTJMm3Sj7487qn71XrA6YESF2PCVkzCt5qo0
